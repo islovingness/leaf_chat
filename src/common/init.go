@@ -1,7 +1,7 @@
 package common
 
 import (
-	"common/msg"
+	"./msg"
 	"encoding/gob"
 	"gopkg.in/mgo.v2/bson"
 )

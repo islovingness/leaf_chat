@@ -1,10 +1,10 @@
 package main
 
 import (
-	"common"
-	"common/msg"
-	"chatClient/client"
-	"github.com/name5566/leaf"
+	"../common"
+	"../common/msg"
+	"./client"
+	"github.com/islovingness/leaf"
 )
 
 func main()  {

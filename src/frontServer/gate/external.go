@@ -1,7 +1,7 @@
 package gate
 
 import (
-	"frontServer/gate/internal"
+	"./internal"
 )
 
 var (

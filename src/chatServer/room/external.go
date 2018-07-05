@@ -1,11 +1,11 @@
 package room
 
 import (
-	"chatServer/room/internal"
-	"chatServer/conf"
-	"github.com/name5566/leaf/module"
+	"../room/internal"
+	"../conf"
+	"github.com/islovingness/leaf/module"
 	"math"
-	"github.com/name5566/leaf/chanrpc"
+	"github.com/islovingness/leaf/chanrpc"
 )
 
 var (

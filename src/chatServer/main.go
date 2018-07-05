@@ -1,15 +1,15 @@
 package main
 
 import (
-	"common"
-	"github.com/name5566/leaf"
-	lconf "github.com/name5566/leaf/conf"
-	"chatServer/conf"
+	"../common"
+	"github.com/islovingness/leaf"
+	lconf "github.com/islovingness/leaf/conf"
+	"./conf"
 	"os"
-	"github.com/name5566/leaf/log"
-	"chatServer/center"
-	"chatServer/room"
-	"github.com/name5566/leaf/module"
+	"github.com/islovingness/leaf/log"
+	"./center"
+	"./room"
+	"github.com/islovingness/leaf/module"
 )
 
 func main() {

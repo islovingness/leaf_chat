@@ -2,7 +2,7 @@ package msg
 
 import (
 	"gopkg.in/mgo.v2/bson"
-	"github.com/name5566/leaf/network/json"
+	"github.com/islovingness/leaf/network/json"
 )
 
 var (

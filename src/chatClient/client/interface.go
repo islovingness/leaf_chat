@@ -3,8 +3,8 @@ package client
 import (
 	"crypto/md5"
 	"fmt"
-	"common/msg"
-	"chatClient/conf"
+	"../../common/msg"
+	"../conf"
 	"errors"
 	"gopkg.in/mgo.v2/bson"
 )

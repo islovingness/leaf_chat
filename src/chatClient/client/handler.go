@@ -1,8 +1,8 @@
 package client
 
 import (
-	"common/msg"
-	"github.com/name5566/leaf/log"
+	"../../common/msg"
+	"github.com/islovingness/leaf/log"
 	"time"
 )
 

@@ -1,9 +1,9 @@
 package mongodb
 
 import (
-	"github.com/name5566/leaf/db/mongodb"
-	"frontServer/conf"
-	"github.com/name5566/leaf/log"
+	"github.com/islovingness/leaf/db/mongodb"
+	"../../conf"
+	"github.com/islovingness/leaf/log"
 )
 
 var (

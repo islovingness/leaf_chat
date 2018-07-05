@@ -1,15 +1,15 @@
 package internal
 
 import (
-	"common/msg"
-	"github.com/name5566/leaf/gate"
-	"github.com/name5566/leaf/cluster"
-	"frontServer/db/mongodb/userDB"
+	"../../../common/msg"
+	"github.com/islovingness/leaf/gate"
+	"github.com/islovingness/leaf/cluster"
+	"../../db/mongodb/userDB"
 	"gopkg.in/mgo.v2/bson"
 	"gopkg.in/mgo.v2"
-	"frontServer/conf"
-	"frontServer/user"
-	"frontServer/center"
+	"../../conf"
+	"../../user"
+	"../../center"
 	"time"
 )
 

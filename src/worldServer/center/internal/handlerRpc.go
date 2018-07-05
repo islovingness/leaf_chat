@@ -1,8 +1,8 @@
 package internal
 
 import (
-	"github.com/name5566/leaf/cluster"
-	"github.com/name5566/leaf/log"
+	"github.com/islovingness/leaf/cluster"
+	"github.com/islovingness/leaf/log"
 	"errors"
 	"gopkg.in/mgo.v2/bson"
 	"math"

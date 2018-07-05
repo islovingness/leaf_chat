@@ -1,7 +1,7 @@
 package center
 
 import (
-	"frontServer/center/internal"
+	"./internal"
 )
 
 var (

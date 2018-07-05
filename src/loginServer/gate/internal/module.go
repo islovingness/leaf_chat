@@ -1,9 +1,9 @@
 package internal
 
 import (
-	"github.com/name5566/leaf/gate"
-	"loginServer/conf"
-	"common/msg"
+	"github.com/islovingness/leaf/gate"
+	"../../conf"
+	"../../../common/msg"
 )
 
 type Module struct {

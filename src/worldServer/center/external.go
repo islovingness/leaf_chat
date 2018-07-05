@@ -1,7 +1,7 @@
 package center
 
 import (
-	"worldServer/center/internal"
+	"./internal"
 )
 
 var (

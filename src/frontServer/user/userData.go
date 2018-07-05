@@ -1,8 +1,8 @@
 package user
 
 import (
-	"frontServer/db/mongodb/userDB"
-	"github.com/name5566/leaf/log"
+	"../db/mongodb/userDB"
+	"github.com/islovingness/leaf/log"
 )
 
 type Data struct {

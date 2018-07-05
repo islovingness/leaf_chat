@@ -1,13 +1,13 @@
 package internal
 
 import (
-	"common/msg"
-	"github.com/name5566/leaf/gate"
-	"github.com/name5566/leaf/cluster"
-	"loginServer/db/mongodb/accountDB"
+	"../../../common/msg"
+	"github.com/islovingness/leaf/gate"
+	"github.com/islovingness/leaf/cluster"
+	"../../db/mongodb/accountDB"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
-	"loginServer/db/mongodb/tokenDB"
+	"../../db/mongodb/tokenDB"
 )
 
 func init() {

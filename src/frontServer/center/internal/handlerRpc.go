@@ -1,12 +1,12 @@
 package internal
 
 import (
-	"frontServer/conf"
-	"github.com/name5566/leaf/cluster"
+	"../../conf"
+	"github.com/islovingness/leaf/cluster"
 	"gopkg.in/mgo.v2/bson"
-	"github.com/name5566/leaf/gate"
-	"github.com/name5566/leaf/log"
-	"common/msg"
+	"github.com/islovingness/leaf/gate"
+	"github.com/islovingness/leaf/log"
+	"../../../common/msg"
 )
 
 var (

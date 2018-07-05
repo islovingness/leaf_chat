@@ -2,9 +2,9 @@ package tokenDB
 
 import (
 	"gopkg.in/mgo.v2/bson"
-	"loginServer/db/mongodb"
+	"../../mongodb"
 	"gopkg.in/mgo.v2"
-	lmongodb "github.com/name5566/leaf/db/mongodb"
+	lmongodb "github.com/islovingness/leaf/db/mongodb"
 )
 
 type Data struct {

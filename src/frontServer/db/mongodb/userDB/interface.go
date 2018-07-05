@@ -2,8 +2,8 @@ package userDB
 
 import (
 	"gopkg.in/mgo.v2/bson"
-	"frontServer/db/mongodb"
-	lmongodb "github.com/name5566/leaf/db/mongodb"
+	"../../mongodb"
+	lmongodb "github.com/islovingness/leaf/db/mongodb"
 	"gopkg.in/mgo.v2"
 )
 

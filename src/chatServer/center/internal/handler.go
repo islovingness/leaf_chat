@@ -1,12 +1,12 @@
 package internal
 
 import (
-	"chatServer/conf"
-	"chatServer/common"
-	"chatServer/room"
-	"github.com/name5566/leaf/cluster"
+	"../../conf"
+	"../../common"
+	"../../room"
+	"github.com/islovingness/leaf/cluster"
 	"errors"
-	"github.com/name5566/leaf/chanrpc"
+	"github.com/islovingness/leaf/chanrpc"
 )
 
 var (

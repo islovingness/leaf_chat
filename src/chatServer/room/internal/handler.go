@@ -3,7 +3,7 @@ package internal
 import (
 	"errors"
 	"gopkg.in/mgo.v2/bson"
-	"github.com/name5566/leaf/chanrpc"
+	"github.com/islovingness/leaf/chanrpc"
 )
 
 func RegisterHandler(chanRPC *chanrpc.Server) {

@@ -1,9 +1,9 @@
 package base
 
 import (
-	"github.com/name5566/leaf/chanrpc"
-	"github.com/name5566/leaf/module"
-	"chatServer/conf"
+	"github.com/islovingness/leaf/chanrpc"
+	"github.com/islovingness/leaf/module"
+	"../conf"
 )
 
 func NewSkeleton() *module.Skeleton {

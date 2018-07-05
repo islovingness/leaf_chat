@@ -1,7 +1,7 @@
 package center
 
 import (
-	"chatServer/center/internal"
+	"../center/internal"
 )
 
 var (

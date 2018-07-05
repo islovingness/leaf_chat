@@ -1,10 +1,10 @@
 package internal
 
 import (
-	"loginServer/db/mongodb/tokenDB"
-	"github.com/name5566/leaf/cluster"
+	"../../db/mongodb/tokenDB"
+	"github.com/islovingness/leaf/cluster"
 	"gopkg.in/mgo.v2/bson"
-	"github.com/name5566/leaf/chanrpc"
+	"github.com/islovingness/leaf/chanrpc"
 )
 
 func handleRpc(id interface{}, f interface{}, fType int) {

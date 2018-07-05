@@ -2,8 +2,8 @@ package common
 
 import (
 	"sync/atomic"
-	"chatServer/conf"
-	"github.com/name5566/leaf/cluster"
+	"../conf"
+	"github.com/islovingness/leaf/cluster"
 )
 
 var (

@@ -1,14 +1,14 @@
 package main
 
 import (
-	"common"
-	"github.com/name5566/leaf"
-	lconf "github.com/name5566/leaf/conf"
-	"frontServer/conf"
-	"frontServer/gate"
+	"../common"
+	"github.com/islovingness/leaf"
+	lconf "github.com/islovingness/leaf/conf"
+	"./conf"
+	"./gate"
 	"os"
-	"github.com/name5566/leaf/log"
-	"frontServer/center"
+	"github.com/islovingness/leaf/log"
+	"./center"
 )
 
 func main() {

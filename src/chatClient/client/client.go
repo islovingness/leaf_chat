@@ -1,8 +1,8 @@
 package client
 
 import (
-	"github.com/name5566/leaf/network"
-	"github.com/name5566/leaf/log"
+	"github.com/islovingness/leaf/network"
+	"github.com/islovingness/leaf/log"
 	"reflect"
 	"net"
 	"time"
